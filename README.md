@@ -1,1 +1,1 @@
-this is a simplea straming application using flask frame work
+this is a simple  vedio streaming application using flask frame work
